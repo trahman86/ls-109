@@ -17,7 +17,7 @@ I also appreciate the iterative nature of the projects and am finding that, even
 I wanted to dive in this summer because, having original found Launch School in the winter and then not feeling ready to dive in, I feel that I wasted several months when I could have been making progress instead. Having to take time off was not ideal, however I think the reflection time and realizing I did want to recommit and go all in will help make me more motivated as I establish new habits in a new location.
 
 #### Note-taking
-I have struggled to figure out a good way to note-take or capture information that I'm picking up from around the web. I might try to use Trello or something to make cards with solid resources I find, or even pieces of documentation I find myself coming back to again and again. For this reason, I wish the blog recommendation came closer to the beginning of 101, possibly even in the prepatory courses, as a way of pushing the learner to start recording their reflection and learnings in a written way.
+I have struggled to figure out a good way to note-take or capture information that I'm picking up from around the web. I might try to use Trello or something to make cards with solid resources I find, or even pieces of documentation I find myself coming back to again and again. For this reason, I wish the blog recommendation came closer to the beginning of 101, possibly even in the preparatory courses, as a way of pushing the learner to start recording their reflection and learnings in a written way.
 
 ## how well you retained the concepts
 
